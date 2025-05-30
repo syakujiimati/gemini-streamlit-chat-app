@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+*.env
+.env.*
+
+# Streamlit secrets (もし使っていれば)
+.streamlit/secrets.toml
+
+# OS generated files
+.DS_Store
+Thumbs.db
